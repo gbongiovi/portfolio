@@ -51,7 +51,7 @@ Due to NDA, this work was adapted from my Master Thesis. The objective here was 
 ### **[Analyzing the Titanic survivals based on the sociodemographic characteristics]**
 The primary goal of this analysis was using the Titanic dataset based on the real historical event of the sinking of the RMS Titanic in 1912. It was used to predict the survival of passengers based on various features, and getting insights of how the sociodemographic characteristics are related to the survival chances.
 
-[Github code](TitanicAnalysis.ipynb)
+[Github code](https://github.com/gbongiovi/portfolio/blob/01965162cc8b9ba36ca676b775fa75022b004ce8/machine-learning/TitanicAnalysis.ipynb)
 
 --
 
