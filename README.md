@@ -53,6 +53,11 @@ The primary goal of this analysis was using the Titanic dataset based on the rea
 
 [Github code](https://github.com/gbongiovi/portfolio/blob/01965162cc8b9ba36ca676b775fa75022b004ce8/machine-learning/TitanicAnalysis.ipynb)
 
+### **[Predicting occurrence of fires in the Brazilian Amazon based on seasonal data and climate phenomena]**
+This project aims to analyze and predict the occurrence of fires in the Brazilian Amazon using various datasets, including historical fire data, and climate phenomena (El Niño and La Niña events). By building reliable predictive models, we aim to identify key factors influencing fire occurrences and provide insights for preventive measures.
+
+[Github code](https://github.com/gbongiovi/portfolio/blob/2c4f7361a7429b3b416e41904a06ec136cbf87a3/machine-learning/AmazonFires.ipynb)
+
 --
 
 ## **2. Development Projects**
