@@ -31,7 +31,7 @@ Furthermore, at my master thesis (30 ECTS - 810h), entitled *Estimating Vehicle 
 
 Along with four colleagues and a provided synthetic dataset that reflects real predictive maintenance encountered in the industry, the CRISP-DM methodology was adopted to develop the project.
 
-[Github code](https://drive.google.com/open?id=15EMnV7-eX88Tf1nYrRlZTZ1KWtaBqVb_&usp=drive_copy)
+[Github code](https://github.com/gbongiovi/portfolio/blob/e95becec9b43446c54dda42c2e2ca48670a8df99/machine-learning/PredictiveMaintenance.ipynb)
 
 
 ### **[Sales Forecasting for a physical retailer]**
