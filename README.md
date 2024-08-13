@@ -5,10 +5,10 @@ Welcome to my portfolio! This portfolio showcases some of the projects in variou
 
 I am a Master in Industrial Engineering and Management, passionate about businesses and data. Currently working in Finance for a US client, my true passion is transforming raw information into business insights through data!
 
-With a strong background on data and programming, on University level I had completed the following coursework on the field:
-- 35.5 ECTS (960h) of [Associate subjects](https://drive.google.com/open?id=1Z6L9sRi36dad3xvv9sk_olFCLwMpXZ4K&usp=drive_copy);
-- 42 ECTS (1134h) of [Bachelor subjects](https://drive.google.com/open?id=1Mi1MsLxUX4A5tYGOR3pon-pzF2nllTDy&usp=drive_copy);
-- 24 ECTS (648h) of [Master subjects](https://drive.google.com/open?id=1EP0OuZdhNV5WOBoBxp5T9uo94QYv2MKI&usp=drive_copy).
+On University level I had completed the following coursework:
+- 92 ECTS (2460h) of [Associate degree subjects];
+- 172.5 ECTS (4657.5h) of [Bachelor subjects];
+- 120 ECTS (3240h) of [Master subjects].
 
 As a Data Analyst on the Faculty of Economics on the University of Porto, I was faced with different projects on Human Resources, Finance and Marketing, where I had analyzed different types of data using Excel, SPSS, Python and, more often, R.
 
