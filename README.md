@@ -3,18 +3,14 @@ Welcome to my portfolio! This portfolio showcases some of the projects in variou
 
 ## **About Me**
 
-I am a Master in Industrial Engineering and Management, passionate about businesses and data. Currently working in Finance for a US client, my true passion is transforming raw information into business insights through data!
+I am a Master in Industrial Engineering and Management, passionate about businesses and data. I am a Science Manager at the VIS Team, having a professional background at the intersection of administration and research. My experience relies on working for US-based clients and at R&D centers such as ISR-UC, CEF.UP and INESC TEC.
 
 On University level I had completed the following coursework:
-- 92 ECTS (2460h) of [Associate degree subjects];
+- +-109 ECTS (2960h) of [Associate degree subjects];
 - 172.5 ECTS (4657.5h) of [Bachelor degree subjects];
 - 120 ECTS (3240h) of [Master degree subjects].
 
-As a Data Analyst on the Faculty of Economics on the University of Porto, I was faced with different projects on Human Resources, Finance and Marketing, where I had analyzed different types of data using Excel, SPSS, Python and, more often, R.
-
-Furthermore, at my master thesis (30 ECTS - 810h), entitled *Estimating Vehicle Occupancy in Public Transportation: The Case Study of Fortaleza*, robust data science methodologies were applied. The data was appropriately prepared for processing, where the right processing practices were applied, and models for regression, machine learning, and neural networks were developed. The work was evaluated with 18 out of 20.
-
-**Location:** Portugal (Aveiro - Porto - Lisboa)
+**Location:** Portugal (Coimbra)
 
 **Email:** gugabongiovi@gmail.com
 
