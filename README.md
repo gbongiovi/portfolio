@@ -1,9 +1,22 @@
-# Portfolio
-Welcome to my portfolio! This portfolio showcases some of the projects in various areas of Machine Learning, Development, Operations, Business and Optimization, I have developed during university, work and some personal projects.
+<img src="https://raw.githubusercontent.com/gbongiovi/gbongiovi/output/snake.svg" alt="Snake animation" />
 
-## **About Me**
+###
 
-I am a Master in Industrial Engineering and Management, passionate about businesses and data. I am a Science Manager at the VIS Team, having a professional background at the intersection of administration and research. My experience relies on working for US-based clients and at R&D centers such as ISR-UC, CEF.UP and INESC TEC.
+<h1 align="left">Welcome!</h1>
+
+###
+
+<p align="left">My name is Gustavo and This portfolio showcases some of the projects in various areas of Machine Learning, Development, Operations, Business and Optimization, I have developed during university, work and some personal projects.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+
+Master in Industrial Engineering and Management,  I am a Science Manager at the VIS Team, having a professional background at the intersection of administration and research. My experience relies on working for US-based clients and at R&D centers such as ISR-UC, CEF.UP and INESC TEC.
 
 On University level I had completed the following coursework:
 - +-109 ECTS (2960h) of [Associate degree subjects];
@@ -16,10 +29,32 @@ On University level I had completed the following coursework:
 
 **LinkedIn:** https://www.linkedin.com/in/gustavo-bongiovi-85641b184/
 
+</p>
+
+**Location:** Portugal (Coimbra)
+
+**Email:** gugabongiovi@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/gustavo-bongiovi-85641b184/
+
 ### **Skills**
-- **Programming Languages:** Python, R, SQL, HTML, CSS, PHP, VBA, Pascal
-- **Technologies:** Google Colabs, Jupyter Notebook, Rstudio, Access, Excel, Minitab, RapidMiner, SPSS, LimeSurvey
-- **Skills:** Machine Learning, Deep Learning, Statistical Analysis, Text Mining, Business Analysis, Process Analysis and Improvement
+**Programming Languages**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+<br>
+
+**Technologies:** Google Colabs, Jupyter Notebook, Rstudio, Access, Excel, Minitab, RapidMiner, SPSS, LimeSurvey, Canva, LaTex<br>
 
 ## **1. Machine Learning Projects**
 ### **[Evaluating different Machine Learning algorithms to predict failures]**
